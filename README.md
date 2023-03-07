@@ -42,3 +42,14 @@ KNN is K Nearest Neighbor, is a nonparametric supervised learning classifier tha
 
 Support Vector Classifier:
 The supervised machine learning technique known as the SVC, or Support Vector Classifier, is often used for classification problems. SVC separates the data into two classes by mapping the data points into a high-dimensional space and locating the ideal hyperplane.
+
+          <Decision Tree>
+![dt](https://user-images.githubusercontent.com/89196598/223317266-b1e5ae6b-05e6-4931-bb9a-1d6e2875e0a6.jpg)
+          <Linear Regression>
+![lr](https://user-images.githubusercontent.com/89196598/223317275-59146efa-f3b4-424f-a090-2ceab70e8cba.jpg)
+          <Random Forest>
+![rf](https://user-images.githubusercontent.com/89196598/223317277-03b4cc18-c439-4226-8661-95744ed67e6f.jpg)
+          <Support Vector Regressor>
+![svr](https://user-images.githubusercontent.com/89196598/223317280-6530afc4-4194-4cbc-8cea-4a62a8b8ee7a.jpg)
+
+<h1> From Above Graph you can visualize that which Algorithm is making best Prediction </h1>
