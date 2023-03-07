@@ -1,6 +1,6 @@
 ML Based Air Quality Prediction New Delhi Okhla Phase II Area Case Study
 
-                                                                        MACHINE LEARNING
+                                                            MACHINE LEARNING
 Computers can now learn without being explicitly programmed thanks to the discipline of machine learning.One of the most intriguing technologies ever is machine learning. As the name suggests, it gives computers what makes them more human: the ability to learn. Contrary to popular belief, there are now more applications for machine learning.Deep learning may be divided into four primary categories: reinforcement learning, semi-supervised learning, unsupervised learning, and supervised learning.
 
 <H3>Supervised learning:</H3> Learning which contains labeled dataset this learning already knows the output, regression and classification are its type. The method that builds a mathematical representation of a dataset with both intended inputs and outputs. A collection of training samples make up the so-called training data. Each training example contains a desired output, also known as a monitor signal, and one or more inputs. The algorithm can accurately estimate outputs for inputs that are not included in the training data when it performs at its best. Algorithms are considered to have learnt to do a job when they gradually increase the accuracy of their outputs or predictions.
